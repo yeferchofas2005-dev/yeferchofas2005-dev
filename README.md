@@ -1,12 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Yeferson%20Acosta&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Freelancer%20%7C%20Universidad%20El%20Bosque&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=200&section=header&text=Yeferson%20Acosta&fontSize=50&fontColor=39ff14&fontAlignY=38&desc=Backend%20Developer%20%7C%20Freelancer&descAlignY=58&descSize=18&descColor=57cc5a&animation=fadeIn" />
 
 <p>
-  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-brightgreen?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experiencia-3%2B%20años-blue?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Enfoque-Backend-orange?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Universidad%20El%20Bosque-7mo%20semestre-yellow?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-39ff14?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Experiencia-3%2B%20años-2ea043?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enfoque-Backend-1a7f37?style=flat-square&logoColor=white" />
 </p>
 
 </div>
@@ -23,8 +22,6 @@ import "fmt"
 type Desarrollador struct {
     Nombre      string
     Rol         string
-    Universidad string
-    Semestre    string
     Experiencia string
     Intereses   []string
     Estado      string
@@ -34,9 +31,7 @@ func main() {
     yo := Desarrollador{
         Nombre:      "Yeferson Acosta",
         Rol:         "Backend Developer & Freelancer",
-        Universidad: "Universidad El Bosque — Ing. en Sistemas",
-        Semestre:    "7mo semestre",
-        Experiencia: "3+ años en desarrollo backend, freelance y proyectos académicos",
+        Experiencia: "3+ años en desarrollo backend, freelance y proyectos reales",
         Intereses:   []string{"APIs escalables", "microservicios", "arquitectura de software", "bases de datos"},
         Estado:      "Abierto a nuevos proyectos 🚀",
     }
@@ -86,20 +81,6 @@ func main() {
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-| Proyecto | Rol | Descripción | Tecnologías |
-|---|---|---|---|
-| **BoskTrader** | Backend Dev | App de trading online que simula compra/venta de acciones en bolsa usando la API de Alpaca. Gestión de roles, portafolios y operaciones en tiempo real. | Spring Boot · Angular · MySQL · Alpaca API |
-| **nomiBosk** | Frontend & DB | Calculadora de nómina basada en legislación colombiana. Toda la lógica de negocio en base de datos con stored procedures, funciones, triggers y excepciones. | MySQL (T-SQL) · Flask |
-| **classDiagramGenerator** | Desarrollador | Plugin para Eclipse que genera automáticamente diagramas de clases a partir de proyectos Java. Automatiza el análisis estructural del código. | Java · Eclipse Plugin Dev |
-
-</div>
-
----
-
 ## 💼 Experiencia
 
 **Backend Developer — Click2Invest**
@@ -110,24 +91,15 @@ func main() {
 
 ---
 
-## 🎓 Formación
-
-| | |
-|---|---|
-| 🎓 **Ingeniería en Sistemas** | Universidad El Bosque — 7mo semestre (2022 – Actualidad) |
-| 📜 **Oracle APEX Professional** | Oracle University — 2025 |
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeferchofas2005-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeferchofas2005-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeferchofas2005-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=57cc5a&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeferchofas2005-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=57cc5a" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=yeferchofas2005-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&locale=es" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=yeferchofas2005-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=57cc5a&sideLabels=57cc5a&dates=57cc5a&locale=es" />
 </div>
 
 ---
@@ -147,6 +119,6 @@ func main() {
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=100&section=footer" />
   <sub>Hecho con 💚 por Yeferson Acosta</sub>
 </div>
