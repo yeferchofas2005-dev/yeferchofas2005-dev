@@ -81,16 +81,6 @@ func main() {
 
 ---
 
-## 💼 Experiencia
-
-**Backend Developer — Click2Invest**
-> Desarrollo backend de una aplicación de trading, creación e implementación de microservicios con FastAPI. Enfoque en comunicación eficiente entre módulos, gestión de datos y escalabilidad. Arquitectura de software distribuido y buenas prácticas backend.
-
-**Técnico en Sistemas — Soporte e Infraestructura**
-> Reparación, mantenimiento y armado de computadores. Instalación y mantenimiento de servidores físicos, redes LAN y sistemas de videovigilancia.
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
