@@ -56,16 +56,16 @@ func main() {
 
 Soy desarrollador backend apasionado por construir aplicaciones escalables, APIs robustas y arquitecturas limpias.
 
-Me gusta trabajar en proyectos donde pueda optimizar procesos, automatizar tareas y desarrollar soluciones que realmente aporten valor.
+Me gusta desarrollar software de calidad, optimizar procesos y construir soluciones escalables utilizando buenas prácticas de ingeniería de software.
 
-Actualmente desarrollo proyectos propios, freelance y colaborativos enfocados en:
+Actualmente trabajo en:
 
-- APIs REST
-- Arquitectura Backend
-- Microservicios
-- Bases de Datos
-- Automatización
-- Desarrollo Full Stack
+- 🚀 APIs REST
+- 🏗 Arquitectura Backend
+- ⚡ Microservicios
+- 🗄 Bases de Datos
+- 🤖 Automatización
+- 💻 Desarrollo Full Stack
 
 ---
 
@@ -73,59 +73,39 @@ Actualmente desarrollo proyectos propios, freelance y colaborativos enfocados en
 
 ## 💻 Lenguajes
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=go,java,python,ts,js"/>
-
 </p>
 
 ## ⚙ Frameworks
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,angular"/>
-
 </p>
 
 ## 🗄 Bases de Datos
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
-
 </p>
 
 ## 🛠 Herramientas
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux"/>
-
 </p>
 
 ---
 
 # 📈 Estadísticas
 
-<table align="center">
+<p align="center">
 
-<tr>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeferchofas2005-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeferchofas2005-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeferchofas2005-dev&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&title_color=39ff14&icon_color=39ff14&text_color=57cc5a&bg_color=0d1117"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeferchofas2005-dev&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=39ff14&text_color=57cc5a&bg_color=0d1117"/>
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
@@ -134,16 +114,6 @@ Actualmente desarrollo proyectos propios, freelance y colaborativos enfocados en
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=yeferchofas2005-dev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&stroke=39ff14&sideLabels=57cc5a&dates=57cc5a"/>
-
-</p>
-
----
-
-# 🏆 Trofeos
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yeferchofas2005-dev&theme=matrix&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </p>
 
@@ -159,11 +129,27 @@ Actualmente desarrollo proyectos propios, freelance y colaborativos enfocados en
 
 ---
 
+# 📌 Proyectos Destacados
+
+<p align="center">
+
+<a href="https://github.com/yeferchofas2005-dev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yeferchofas2005-dev&repo=REEMPLAZA_CON_TU_REPOSITORIO&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/yeferchofas2005-dev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yeferchofas2005-dev&repo=REEMPLAZA_CON_OTRO_REPOSITORIO&theme=github_dark&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
 # 📫 Contacto
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeferchofas2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeferchofas2005@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeferson-millan-b62833332/)
 
