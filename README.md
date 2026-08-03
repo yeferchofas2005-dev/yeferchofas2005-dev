@@ -97,18 +97,6 @@ Actualmente trabajo en:
 
 ---
 
-# 📈 Estadísticas
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeferchofas2005-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeferchofas2005-dev&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 Racha de contribuciones
 
 <p align="center">
@@ -124,22 +112,6 @@ Actualmente trabajo en:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeferchofas2005-dev&theme=github-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=57cc5a&hide_border=true"/>
-
-</p>
-
----
-
-# 📌 Proyectos Destacados
-
-<p align="center">
-
-<a href="https://github.com/yeferchofas2005-dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yeferchofas2005-dev&repo=REEMPLAZA_CON_TU_REPOSITORIO&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/yeferchofas2005-dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yeferchofas2005-dev&repo=REEMPLAZA_CON_OTRO_REPOSITORIO&theme=github_dark&hide_border=true"/>
-</a>
 
 </p>
 
